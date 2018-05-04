@@ -1,0 +1,2 @@
+Just click on the 'The Sun Never Sets' icon. If you're using Chrome, open it with another browser. If for some reason the shortcut isn't working, 
+head into the 'dfablich-choicescript file, the Web file, and then run the 'Index' html document.
